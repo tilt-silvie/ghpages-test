@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+## リーグからのお知らせ
+- ホームページをリニューアルしました。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## About RoboCup SSL
+![about robocup ssl](img/unnamed.png){: align=right width=30%}
+RoboCup Soccer Small Size League は、小型のロボットでサッカーを行う競技です。特に小型リーグでは、非常に動的な環境でのマルチエージェントの協調と制御の問題に焦点を当てています。
 
-## Commands
+フィールド上のロボット・ボールは、約6 m上にある複数カメラによって提供されるデータを処理する標準化されたビジョンシステムによって追跡され ます。ビジョンシステムは、リーグのコミュニティによって維持されているオープンソースプロジェクトです。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+この競技では、多くのハードウェアおよびソフトウェアを巧妙に設計、実装し、堅牢なロボットシステムを構築する必要があります。
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
