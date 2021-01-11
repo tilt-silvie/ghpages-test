@@ -15,3 +15,5 @@
 - [RoboCup SSL Github](https://github.com/RoboCup-SSL)  
 
     最新の競技ルールや 大会で使用するOSSはこちらからアクセスできます
+
+- [旧HP](http://kiyosu.cs.chubu.ac.jp/SSLJapan/index.html)
